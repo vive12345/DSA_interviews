@@ -7,24 +7,11 @@ class Solution:
         seen = set()
         rows, cols = len(board), len(board[0])
         directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-        # top and bottom rows
-        for col in range(cols):
-            if board[0][col] == 'O':
-                dq.append((0, col))
-                seen.add((0, col))
-            if board[rows-1][col] == 'O':
-                dq.append((rows-1, col))
-                seen.add((rows-1, col))
-
-        # left and right columns
         for row in range(rows):
-            if board[row][0] == 'O':
-                dq.append((row, 0))
-                seen.add((row, 0))
-            if board[row][cols-1] == 'O':
-                dq.append((row, cols-1))
-                seen.add((row, cols-1))
-
+            for col in range(cols):
+                if (row == 0 or row == rows-1 or col == 0 or col == cols-1) and board[row][col] == 'O':
+                    dq.append((row, col))
+                    seen.add((row, col))
         while dq:
             r, c = dq.popleft()
             for dr, dc in directions:
