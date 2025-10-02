@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vive12345/DSA_interviews/tree/master/0056-merge-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vive12345/DSA_interviews/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vive12345/DSA_interviews/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/vive12345/DSA_interviews/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/vive12345/DSA_interviews/tree/master/0542-01-matrix) |
