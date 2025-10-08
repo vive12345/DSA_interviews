@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vive12345/DSA_interviews/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vive12345/DSA_interviews/tree/master/0222-count-complete-tree-nodes) |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vive12345/DSA_interviews/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vive12345/DSA_interviews/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/vive12345/DSA_interviews/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -215,10 +220,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vive12345/DSA_interviews/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/vive12345/DSA_interviews/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vive12345/DSA_interviews/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/vive12345/DSA_interviews/tree/master/0820-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
