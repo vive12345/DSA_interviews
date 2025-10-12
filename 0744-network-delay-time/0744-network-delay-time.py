@@ -1,41 +1,42 @@
-from collections import defaultdict
+import heapq
 import math
+from collections import defaultdict
 
 class Solution:
     def __init__(self):
         self.adj = defaultdict(list)
 
-    def dfs(self, signalReceivedAt, currNode, currTime):
-        # If current path is already slower than known best, skip
-        if currTime >= signalReceivedAt[currNode]:
-            return
+    def dijkstra(self, signalReceivedAt, source):
+        pq = []
+        heapq.heappush(pq, (0, source))  # (time, node)
+        signalReceivedAt[source] = 0
 
-        # Record faster arrival time
-        signalReceivedAt[currNode] = currTime
+        while pq:
+            currTime, currNode = heapq.heappop(pq)
 
-        # No outgoing edges → stop
-        if currNode not in self.adj:
-            return
+            # Skip if we already found a faster route
+            if currTime > signalReceivedAt[currNode]:
+                continue
 
-        # Explore neighbors
-        for travelTime, neighbor in self.adj[currNode]:
-            self.dfs(signalReceivedAt, neighbor, currTime + travelTime)
+            # Explore neighbors
+            for time, neighbor in self.adj[currNode]:
+                newTime = currTime + time
+                if newTime < signalReceivedAt[neighbor]:
+                    signalReceivedAt[neighbor] = newTime
+                    heapq.heappush(pq, (newTime, neighbor))
 
     def networkDelayTime(self, times: list[list[int]], n: int, k: int) -> int:
         # Build adjacency list
         for u, v, w in times:
             self.adj[u].append((w, v))
 
-        # Sort each adjacency list by travel time (smallest first)
-        for node in self.adj:
-            self.adj[node].sort(key=lambda x: x[0])
-
         # Initialize signal times
         signalReceivedAt = [math.inf] * (n + 1)
 
-        # Run DFS from source
-        self.dfs(signalReceivedAt, k, 0)
+        # Run Dijkstra from source k
+        self.dijkstra(signalReceivedAt, k)
 
-        # Compute result
-        answer = max(signalReceivedAt[1:])
+        # Compute answer
+        answer = max(signalReceivedAt[1:])  # ignore index 0
+
         return -1 if answer == math.inf else answer
