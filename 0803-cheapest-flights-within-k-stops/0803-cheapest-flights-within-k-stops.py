@@ -1,33 +1,38 @@
-from typing import List
-import collections
+from collections import defaultdict, deque
+import math
 
 class Solution:
-    def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
-        # prices[i] will store the minimum cost to reach city i from src.
-        # Initialize all prices to infinity, except for the source city.
-        prices = [float('inf')] * n
-        prices[src] = 0
+    def findCheapestPrice(self, n: int, flights: list[list[int]], src: int, dst: int, k: int) -> int:
+        # Build adjacency list: src -> [(dest, cost)]
+        adj = defaultdict(list)
+        for u, v, cost in flights:
+            adj[u].append((v, cost))
         
-        # We can make at most k stops, which means we can take at most k + 1 flights.
-        # We will relax the edges k + 1 times.
-        for i in range(k + 1):
-            # Use a temporary array to store the updated prices for the current iteration.
-            # This is crucial because each iteration should only use costs from the previous one.
-            temp_prices = prices[:]
+        # Initialize distance array
+        dist = [math.inf] * n
+        dist[src] = 0
+        
+        # BFS-like traversal (level = number of stops)
+        q = deque([(src, 0)])
+        stops = 0
+        
+        while stops <= k and q:
+            sz = len(q)
+            # Temporary distances for this level to avoid premature updates
+            temp_dist = dist.copy()
             
-            # For each flight, check if we can find a cheaper path.
-            for u, v, p in flights:
-                # If the source city 'u' of the flight is reachable (not infinity)
-                if prices[u] != float('inf'):
-                    # If the path through 'u' to 'v' is cheaper than any known path to 'v'
-                    if prices[u] + p < temp_prices[v]:
-                        temp_prices[v] = prices[u] + p
+            for _ in range(sz):
+                node, cost_so_far = q.popleft()
+                
+                # Explore neighbors
+                for nei, price in adj[node]:
+                    new_cost = cost_so_far + price
+                    if new_cost < temp_dist[nei]:
+                        temp_dist[nei] = new_cost
+                        q.append((nei, new_cost))
             
-            # Update the main prices array for the next iteration.
-            prices = temp_prices
-            
-        # If prices[dst] is still infinity, the destination is not reachable within k stops.
-        if prices[dst] == float('inf'):
-            return -1
-        else:
-            return int(prices[dst])
+            # Update distances for next level
+            dist = temp_dist
+            stops += 1
+        
+        return -1 if dist[dst] == math.inf else dist[dst]
