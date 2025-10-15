@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vive12345/DSA_interviews/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -138,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vive12345/DSA_interviews/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vive12345/DSA_interviews/tree/master/0056-merge-intervals) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 ## Binary Search
 |  |
 | ------- |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/vive12345/DSA_interviews/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 ## Design
 |  |
 | ------- |
@@ -208,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vive12345/DSA_interviews/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/vive12345/DSA_interviews/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
+| [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
