@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vive12345/DSA_interviews/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vive12345/DSA_interviews/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/vive12345/DSA_interviews/tree/master/1073-number-of-enclaves) |
 | [1308-smallest-string-with-swaps](https://github.com/vive12345/DSA_interviews/tree/master/1308-smallest-string-with-swaps) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/vive12345/DSA_interviews/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/vive12345/DSA_interviews/tree/master/0820-find-eventual-safe-states) |
+| [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vive12345/DSA_interviews/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
