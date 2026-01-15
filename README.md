@@ -282,4 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
