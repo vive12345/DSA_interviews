@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vive12345/DSA_interviews/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vive12345/DSA_interviews/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/vive12345/DSA_interviews/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vive12345/DSA_interviews/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vive12345/DSA_interviews/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/vive12345/DSA_interviews/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/vive12345/DSA_interviews/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -262,12 +264,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Backtracking
@@ -289,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
