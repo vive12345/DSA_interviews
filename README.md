@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vive12345/DSA_interviews/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/vive12345/DSA_interviews/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/vive12345/DSA_interviews/tree/master/0820-find-eventual-safe-states) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vive12345/DSA_interviews/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/vive12345/DSA_interviews/tree/master/0797-all-paths-from-source-to-target) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/vive12345/DSA_interviews/tree/master/0820-find-eventual-safe-states) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vive12345/DSA_interviews/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/vive12345/DSA_interviews/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/vive12345/DSA_interviews/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
@@ -294,5 +299,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vive12345/DSA_interviews/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/vive12345/DSA_interviews/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
