@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vive12345/DSA_interviews/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/vive12345/DSA_interviews/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/vive12345/DSA_interviews/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vive12345/DSA_interviews/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vive12345/DSA_interviews/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vive12345/DSA_interviews/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/vive12345/DSA_interviews/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/vive12345/DSA_interviews/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/vive12345/DSA_interviews/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vive12345/DSA_interviews/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vive12345/DSA_interviews/tree/master/0994-rotting-oranges) |
